@@ -1,9 +1,0 @@
-carl/carl.h-nano
-**/.pio
-.pioenvs
-.piolibdeps
-.clang_complete
-.gcc-flags.json
-*~
-*.bak
-carl/config.h-local
